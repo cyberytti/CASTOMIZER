@@ -12,7 +12,7 @@ cd CASTOMIZER
 
 chmod +x castomize.sh 
 
-mv castomize.sh `cd;pwd`
+mv castomize.sh $(cd;pwd)
 
 cd
 
