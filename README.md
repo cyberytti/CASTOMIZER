@@ -12,6 +12,10 @@ cd CASTOMIZER
 
 chmod +x castomize.sh 
 
+mv castomize.sh `cd;pwd`
+
+cd
+
 ./castomize.sh
 
 # ⚠️WARNING
